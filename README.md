@@ -1,4 +1,5 @@
-# OS-Lab-Aug-2018 (Total 9 lab sessions of 3 hrs each)
+# OS-Lab-Aug-2018 
+*(Total 9 lab sessions of 3 hrs each)*
 
 Session  1   :   Problems based on command line arguments
 
